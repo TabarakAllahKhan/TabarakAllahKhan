@@ -1,19 +1,16 @@
 <h1 align="center">Hi there, I'm Tabarak 👋</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
-</p>
+
 
 <p align="center">
-  🎯 Focused on GenAI & NLP | Aspiring AI Security Engineer<br />
+  🎯 Focused on GenAI & NLP <br />
   ⚡ Final Year Software Engineering Student | Lifelong Learner
 </p>
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350" alt="coder gif"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="coder working" />
 </p>
-
 
 ---
 
