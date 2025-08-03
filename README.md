@@ -4,7 +4,7 @@
 
 <p align="center">
   🎯 Focused on GenAI & NLP <br />
-  ⚡ Final Year Software Engineering Student | Lifelong Learner
+  ⚡ Software Engineering Graduate | Former Mircrosoft Learn Student Ambassador | Life Long Learner
 </p>
 
 ---
