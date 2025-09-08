@@ -76,8 +76,8 @@
 ---
 
 ### 💼 Professional Experience
-- Ai Intern At Developer Hub Corporation, Islamabad, Pakistan
-- 🔬 Conducting research in AI Security and Model Protection
+- Ai Intern At Developer Hub Corporation, Islamabad
+- “Part of early contributor team (7 contributors total) of [pystringtoolkit](https://github.com/RaeesFatima/pystringtoolkit/tree/main), actively used by developers worldwide.”
 - 🚀 Developing AI-powered solutions for real-world applications
 - 📊 Working on data engineering projects and cloud-based deployments
 - 🤝 Collaborating with cross-functional teams on innovative AI initiatives
