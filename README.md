@@ -1,93 +1,98 @@
-<h1 align="center">Hi there, I'm Tabarak 👋</h1>
+<h1 align="center">
+  Hi there, I'm Tabarak Allah Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" />
+</div>
+
+<h3 align="center">Backend Developer | AI Engineer | MLOps Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="40" />
+  <a href="https://github.com/TabarakAllahKhan">
+    <img src="https://komarev.com/ghpvc/?username=TabarakAllahKhan&style=flat-square&color=blue" alt="Profile Views" />
+  </a>
 </p>
 
 <p align="center">
-  🎯 Focused on GenAI & NLP | Aspiring AI Security Engineer<br />
-  ⚡ Software Engineering Graduate | Lifelong Learner | AI Pursuing
-</p>
-
----
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coder gif"/>
-</p>
-
----
-
-### 🚀 About Me
-
-- 🛡️ Passionate about **AI Security**, **Generative AI**, **NLP**, **Agentic AI**
-  
-- 🤖 Currently building smart solutions using **Machine Learning**, **Deep Learning**, and **Cloud Platforms**
-- 📘 Learning about **Generative AI**, **NLP**, **AI Model Security**, and **Real-World Defense Use Cases**
-- 🧩 Exploring the intersection of **Machine Learning** and **Securing AI Models** for practical applications
-
----
-
-### 🏆 Achievements
-
-- 🏅 Former Microsoft Learn Student Ambassador (Nov 2021 - Nov 2023)
-
-
----
-
-### 🧠 Skills & Technologies
-
-#### 👨‍💻 Programming & Scripting
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-Javascript-007396?style=flat&logo=javascript&logoColor=white)
-
-#### ⚙️ AI Frameworks 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
-#### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-
-#### 🌐 Web Dev & Frameworks
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-
-#### 🛠️ Tools & Version Control
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TabarakAllahKhan&show_icons=true&theme=tokyonight&hide=issues" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TabarakAllahKhan&layout=compact&theme=tokyonight" />
+  <em>Specializing in scalable Backend Architectures and RAG-based AI Solutions.</em>
 </p>
 
 ---
 
-### 💼 Professional Experience
-- Ai Intern At Developer Hub Corporation, Islamabad
-- “Part of early contributor team (7 contributors total) of [pystringtoolkit](https://github.com/RaeesFatima/pystringtoolkit/tree/main), actively used by developers worldwide.”
-- 🚀 Developing AI-powered solutions for real-world applications
-- 📊 Working on data engineering projects and cloud-based deployments
-- 🤝 Collaborating with cross-functional teams on innovative AI initiatives
+## 👨‍💻 About Me
+
+I am a **Software Engineering graduate (2025)** and a former **Microsoft Learn Student Ambassador**. Currently, I work as a **Remote Python Developer** for US-based companies and a **Freelance AI Engineer** on Upwork. I bridge the gap between robust backend systems (Django/FastAPI) and intelligent AI models.
+
+- 🎓 **Education**: BS Software Engineering, KFUEIT (Class of 2025)
+- 🚀 **Specialties**: LLMs, Retrieval-Augmented Generation (RAG), and Computer Vision.
+- 🛠️ **Current Focus**: Mastering MLOps pipelines and advanced Data Structures.
+- 🌍 **Goal**: Leveraging AI to solve real-world industrial challenges.
 
 ---
 
-### 📫 Let's Connect
+## 🛠️ Technical Stack
 
-- 📧 Email: tabarakalizai861@gmail.com
-- 💼 LinkedIn: [My Linked In](https://www.linkedin.com/in/tabarakallahkhan/)
-- 📝 Portfolio: [Visit Portfolio](https://my-portfolio-nu-topaz-64.vercel.app/)
+<div align="center">
+
+### Backend & AI
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+### Infrastructure & Tools
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
 
 ---
+
+## 🚀 Key Projects
+
+* **Context-Aware Chatbot**: Developed a production-ready RAG system using LangChain and Vector Databases for intelligent document retrieval.
+* **Wheat Crop Disease Detection**: A Full-Stack AI application using **CNN** for image classification with a **FastAPI** backend and **React** frontend.
+* **News Topic Classifier**: Fine-tuned **BERT-base-uncased** for high-accuracy multi-class text classification.
+* **Customer Churn Prediction**: Built an automated ML pipeline using **Scikit-learn** to predict user retention.
+
+---
+
+## 💼 Professional Experience
+
+### **Remote Python Developer**
+**RemoteBase (US-based Clients)** | *Nov 2025 - Present*
+- Building and maintaining scalable backend services for international startups.
+- Optimizing API performance and implementing secure authentication systems.
+
+### **Freelance AI Engineer**
+**Upwork** | *Sep 2025 - Present*
+- Delivering custom NLP and Computer Vision solutions for global clients.
+- Integrating AI models into existing web ecosystems.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TabarakAllahKhan&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="TabarakAllahKhan's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TabarakAllahKhan&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+</div>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
