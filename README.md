@@ -62,17 +62,10 @@ I am a **Software Engineering graduate (2025)** and a former **Microsoft Learn S
 
 ## 💼 Professional Experience
 
-### **Remote Python Developer**
-**RemoteBase (US-based Clients)** | *Nov 2025 - Present*
-- Building and maintaining scalable backend services for international startups.
-- Optimizing API performance and implementing secure authentication systems.
+### Ai Engineer Intern  (Developer Hub Corporation)
+- Worked and build real world projects
+- Tech stack used Python , Pandas , Langchain, Streamlit
 
-### **Freelance AI Engineer**
-**Upwork** | *Sep 2025 - Present*
-- Delivering custom NLP and Computer Vision solutions for global clients.
-- Integrating AI models into existing web ecosystems.
-
----
 
 ## 📊 GitHub Stats
 
