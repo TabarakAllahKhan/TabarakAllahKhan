@@ -37,12 +37,13 @@ I'm a BS Software Engineering graduate who ships **complete, deployed applicatio
 <table>
   <tr>
     <td>
-      <h3>🧾 Smart Expense Approver — Agentic AI Expense Approval</h3>
+      <h3>🧾 <a href="https://github.com/TabarakAllahKhan/Smart_Expense_Approver">Smart Expense Approver — Agentic AI Expense Approval</a></h3>
       <p>
         A GPT-based function-calling agent runs a multi-round tool loop over four decision tools (spending limits, duplicate detection, receipt requirements, user history) to produce <b>Zod-validated verdicts</b>. Validation errors are fed back into the agent's prompt, so it corrects itself instead of failing silently. Includes receipt upload with OCR (Cloudinary + Tesseract.js), Clerk authentication, and role-based dashboards.
       </p>
       <p>
-        <a href="https://smart-expense-approver.vercel.app"><b>🔗 Live Demo</b></a>
+        <a href="https://smart-expense-approver.vercel.app"><b>🔗 Live Demo</b></a> ·
+        <a href="https://github.com/TabarakAllahKhan/Smart_Expense_Approver"><b>📂 Source Code</b></a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
